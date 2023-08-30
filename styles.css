@@ -1,4 +1,15 @@
+header{
+    display: flex;
+    background-color: purple;
+}
 
+span{
+    color: gold;
+}
+
+.nav-pills {
+    gap:10px
+}
 
 
 .hero-container{
@@ -22,9 +33,10 @@ p.lead{
 
 }
 
+
 .featured-container{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .card-container{
